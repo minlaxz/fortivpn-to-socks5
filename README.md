@@ -1,4 +1,4 @@
-# docker-fortivpn-socks5 ![](https://https://github.com/Tosainu/docker-fortivpn-socks5/workflows/Build/badge.svg)
+# fortivpn-to-socks5 ![](https://https://github.com/minlaxz/fortivpn-to-socks5/workflows/Build/badge.svg)
 
 Connect to a Fortinet SSL-VPN via http/socks5 proxy.
 
